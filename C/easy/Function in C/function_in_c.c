@@ -2,30 +2,29 @@
 
 int max_of_four(int a, int b, int c, int d) {
 
-    int maior = a;
+    int larger = a;
 
   
 
-    if (b > maior) {
+    if (b > larger) {
 
-        maior = b;
-
-    }
-
-    if (c > maior) {
-
-        maior = c;
+        larger = b;
 
     }
 
-    if (d > maior) {
+    if (c > larger) {
 
-        maior = d;
+        larger = c;
+    }
+
+    if (d > larger) {
+
+       larger = d;
 
     }
 
 
-    return maior;
+    return larger;
 
 }
 
