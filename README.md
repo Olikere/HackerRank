@@ -9,7 +9,7 @@ The goal is to practice problem-solving skills, improve coding techniques, and s
 
 - All solutions were implemented by me as part of my learning journey.  
 - Problems are taken from [HackerRank](https://www.hackerrank.com/).
-
+- My profile: [HackerRank Olikere](https://www.hackerrank.com/profile/olikereti)
 ---
 
 ## 📬 Connect
